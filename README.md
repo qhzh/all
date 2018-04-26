@@ -1,3 +1,3 @@
 # all
 
-Hello the world,my first step on Github...
+Hello the world,It's my first step on Github ~ ~ ~
